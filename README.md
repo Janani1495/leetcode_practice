@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Janani1495/leetcode_practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
