@@ -20,14 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Janani1495/leetcode_practice/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/Janani1495/leetcode_practice/tree/master/0627-swap-salary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
