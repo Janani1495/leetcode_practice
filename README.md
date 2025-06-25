@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
