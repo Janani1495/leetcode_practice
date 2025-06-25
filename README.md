@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Janani1495/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Janani1495/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Janani1495/leetcode_practice/tree/master/0168-excel-sheet-column-title) |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 ## Database
