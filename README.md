@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Janani1495/leetcode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Janani1495/leetcode_practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Janani1495/leetcode_practice/tree/master/0326-power-of-three) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Janani1495/leetcode_practice/tree/master/0326-power-of-three) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
