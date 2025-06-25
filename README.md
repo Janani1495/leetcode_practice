@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
