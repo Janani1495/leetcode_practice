@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Janani1495/leetcode_practice/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/Janani1495/leetcode_practice/tree/master/0627-swap-salary) |
+| [1161-project-employees-i](https://github.com/Janani1495/leetcode_practice/tree/master/1161-project-employees-i) |
 ## Dynamic Programming
 |  |
 | ------- |
