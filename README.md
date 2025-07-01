@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Janani1495/leetcode_practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Janani1495/leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Janani1495/leetcode_practice/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Janani1495/leetcode_practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Janani1495/leetcode_practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
 ## Array
 |  |
 | ------- |
