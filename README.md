@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
+| [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Greedy
+|  |
+| ------- |
+| [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 <!---LeetCode Topics End-->
