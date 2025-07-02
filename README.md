@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
