@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Janani1495/leetcode_practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2556-convert-the-temperature](https://github.com/Janani1495/leetcode_practice/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Janani1495/leetcode_practice/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Janani1495/leetcode_practice/tree/master/2748-calculate-delayed-arrival-time) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
