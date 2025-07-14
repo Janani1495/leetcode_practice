@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Janani1495/leetcode_practice/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Janani1495/leetcode_practice/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Janani1495/leetcode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Janani1495/leetcode_practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2556-convert-the-temperature](https://github.com/Janani1495/leetcode_practice/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Janani1495/leetcode_practice/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Janani1495/leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0784-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Janani1495/leetcode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
