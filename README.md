@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0434-number-of-segments-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Database
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
