@@ -14,12 +14,7 @@ class Solution {
             if(freq[i]>=1 && freq_1[i]>=1){
                 num++;
             }
-        } for(int i=0;i<26;i++){
-            System.out.print(freq[i]);
-        }
-        for(int i=0;i<26;i++){
-            System.out.print(freq_1[i]);
-        }
+        } 
         return num;
     }
 }
