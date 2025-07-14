@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janani1495/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Janani1495/leetcode_practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Janani1495/leetcode_practice/tree/master/0383-ransom-note) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
