@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0434-number-of-segments-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
+| [3396-valid-word](https://github.com/Janani1495/leetcode_practice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Database
 |  |
