@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/Janani1495/leetcode_practice/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/Janani1495/leetcode_practice/tree/master/1734-bank-account-summary-ii) |
 | [1811-fix-names-in-a-table](https://github.com/Janani1495/leetcode_practice/tree/master/1811-fix-names-in-a-table) |
+| [1827-invalid-tweets](https://github.com/Janani1495/leetcode_practice/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Janani1495/leetcode_practice/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/Janani1495/leetcode_practice/tree/master/1877-find-followers-count) |
 | [1948-rearrange-products-table](https://github.com/Janani1495/leetcode_practice/tree/master/1948-rearrange-products-table) |
