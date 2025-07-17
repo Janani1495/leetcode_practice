@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/Janani1495/leetcode_practice/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/Janani1495/leetcode_practice/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Janani1495/leetcode_practice/tree/master/2024-calculate-special-bonus) |
+| [2110-employees-with-missing-information](https://github.com/Janani1495/leetcode_practice/tree/master/2110-employees-with-missing-information) |
 ## Dynamic Programming
 |  |
 | ------- |
