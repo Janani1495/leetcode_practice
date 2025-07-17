@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Janani1495/leetcode_practice/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Janani1495/leetcode_practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Janani1495/leetcode_practice/tree/master/0584-find-customer-referee) |
+| [0626-exchange-seats](https://github.com/Janani1495/leetcode_practice/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/Janani1495/leetcode_practice/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Janani1495/leetcode_practice/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Janani1495/leetcode_practice/tree/master/1153-product-sales-analysis-i) |
