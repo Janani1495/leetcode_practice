@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/Janani1495/leetcode_practice/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Janani1495/leetcode_practice/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Janani1495/leetcode_practice/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Janani1495/leetcode_practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/Janani1495/leetcode_practice/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Janani1495/leetcode_practice/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/Janani1495/leetcode_practice/tree/master/1811-fix-names-in-a-table) |
