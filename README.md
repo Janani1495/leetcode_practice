@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Janani1495/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Janani1495/leetcode_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/1580-shuffle-the-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Janani1495/leetcode_practice/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0434-number-of-segments-in-a-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Janani1495/leetcode_practice/tree/master/3396-valid-word) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Janani1495/leetcode_practice/tree/master/0164-maximum-gap) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
