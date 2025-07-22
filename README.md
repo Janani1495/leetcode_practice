@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Janani1495/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Janani1495/leetcode_practice/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Janani1495/leetcode_practice/tree/master/1127-last-stone-weight) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Janani1495/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Janani1495/leetcode_practice/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Janani1495/leetcode_practice/tree/master/1168-duplicate-zeros) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Janani1495/leetcode_practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Janani1495/leetcode_practice/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Janani1495/leetcode_practice/tree/master/0461-hamming-distance) |
+| [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Janani1495/leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
@@ -337,5 +341,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
