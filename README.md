@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Janani1495/leetcode_practice/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Janani1495/leetcode_practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Janani1495/leetcode_practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Janani1495/leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Janani1495/leetcode_practice/tree/master/0342-power-of-four) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Janani1495/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Janani1495/leetcode_practice/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Janani1495/leetcode_practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Janani1495/leetcode_practice/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Janani1495/leetcode_practice/tree/master/1168-duplicate-zeros) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0202-happy-number](https://github.com/Janani1495/leetcode_practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Janani1495/leetcode_practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Janani1495/leetcode_practice/tree/master/0383-ransom-note) |
