@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Janani1495/leetcode_practice/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Janani1495/leetcode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Janani1495/leetcode_practice/tree/master/0202-happy-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Janani1495/leetcode_practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0338-counting-bits) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Janani1495/leetcode_practice/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Janani1495/leetcode_practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
