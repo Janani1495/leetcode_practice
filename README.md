@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Janani1495/leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Janani1495/leetcode_practice/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/Janani1495/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Janani1495/leetcode_practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Janani1495/leetcode_practice/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Janani1495/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/Janani1495/leetcode_practice/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Janani1495/leetcode_practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Janani1495/leetcode_practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Janani1495/leetcode_practice/tree/master/0500-keyboard-row) |
 | [1039-find-the-town-judge](https://github.com/Janani1495/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
