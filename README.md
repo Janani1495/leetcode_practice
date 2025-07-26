@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Janani1495/leetcode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3396-valid-word](https://github.com/Janani1495/leetcode_practice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/3811-reverse-degree-of-a-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
