@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Janani1495/leetcode_practice/tree/master/1677-matrix-diagonal-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Janani1495/leetcode_practice/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/Janani1495/leetcode_practice/tree/master/1899-count-items-matching-a-rule) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1764-maximum-repeating-substring](https://github.com/Janani1495/leetcode_practice/tree/master/1764-maximum-repeating-substring) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Janani1495/leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Janani1495/leetcode_practice/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Janani1495/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Janani1495/leetcode_practice/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Janani1495/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
