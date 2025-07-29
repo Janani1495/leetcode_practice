@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Janani1495/leetcode_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Janani1495/leetcode_practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Janani1495/leetcode_practice/tree/master/1677-matrix-diagonal-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Janani1495/leetcode_practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/Janani1495/leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Janani1495/leetcode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
