@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Janani1495/leetcode_practice/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Janani1495/leetcode_practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Janani1495/leetcode_practice/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Janani1495/leetcode_practice/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/Janani1495/leetcode_practice/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/Janani1495/leetcode_practice/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/Janani1495/leetcode_practice/tree/master/1135-customers-who-bought-all-products) |
