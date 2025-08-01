@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Janani1495/leetcode_practice/tree/master/1635-number-of-good-pairs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Janani1495/leetcode_practice/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Janani1495/leetcode_practice/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Janani1495/leetcode_practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Janani1495/leetcode_practice/tree/master/2748-calculate-delayed-arrival-time) |
@@ -496,4 +497,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
