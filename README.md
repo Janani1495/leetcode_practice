@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Janani1495/leetcode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Janani1495/leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
 ## String
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -489,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Janani1495/leetcode_practice/tree/master/1603-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
