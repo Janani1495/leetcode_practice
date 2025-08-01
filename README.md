@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
 ## String
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
 ## Memoization
