@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Janani1495/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Janani1495/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Janani1495/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Janani1495/leetcode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0205-isomorphic-strings) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/Janani1495/leetcode_practice/tree/master/0202-happy-number) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Janani1495/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Janani1495/leetcode_practice/tree/master/0164-maximum-gap) |
 | [0389-find-the-difference](https://github.com/Janani1495/leetcode_practice/tree/master/0389-find-the-difference) |
