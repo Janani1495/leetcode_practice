@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/Janani1495/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Janani1495/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Janani1495/leetcode_practice/tree/master/1127-last-stone-weight) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Janani1495/leetcode_practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Janani1495/leetcode_practice/tree/master/0500-keyboard-row) |
+| [0940-fruit-into-baskets](https://github.com/Janani1495/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Janani1495/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Janani1495/leetcode_practice/tree/master/1217-relative-sort-array) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Janani1495/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Janani1495/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 ## Recursion
 |  |
 | ------- |
