@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Janani1495/leetcode_practice/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Janani1495/leetcode_practice/tree/master/0485-max-consecutive-ones) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Janani1495/leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Janani1495/leetcode_practice/tree/master/0547-number-of-provinces) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Janani1495/leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Janani1495/leetcode_practice/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0777-toeplitz-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Janani1495/leetcode_practice/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
