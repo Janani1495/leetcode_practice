@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Janani1495/leetcode_practice/tree/master/0940-fruit-into-baskets) |
+| [1036-rotting-oranges](https://github.com/Janani1495/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Janani1495/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Janani1495/leetcode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Janani1495/leetcode_practice/tree/master/1127-last-stone-weight) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Janani1495/leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Janani1495/leetcode_practice/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Janani1495/leetcode_practice/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Janani1495/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Janani1495/leetcode_practice/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Janani1495/leetcode_practice/tree/master/1791-richest-customer-wealth) |
