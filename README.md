@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Janani1495/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Janani1495/leetcode_practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Janani1495/leetcode_practice/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Janani1495/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Janani1495/leetcode_practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Janani1495/leetcode_practice/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Janani1495/leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janani1495/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0338-counting-bits) |
+| [0518-coin-change-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Janani1495/leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Janani1495/leetcode_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/Janani1495/leetcode_practice/tree/master/1764-maximum-repeating-substring) |
