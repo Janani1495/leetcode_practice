@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Janani1495/leetcode_practice/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0112-path-sum) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0112-path-sum) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Janani1495/leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Janani1495/leetcode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bucket Sort
 |  |
