@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Janani1495/leetcode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Janani1495/leetcode_practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Janani1495/leetcode_practice/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
 | ------- |
