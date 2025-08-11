@@ -1,42 +1,26 @@
 import java.math.BigInteger;
-
 class Solution {
 
-    static boolean rec(int[] arr, BigInteger target, int i, BigInteger product) {
-        
-        if (i == arr.length) {
-            return product.equals(target);
+    static boolean func(int[]nums,BigInteger target,int i,BigInteger prod){
+        if(i==nums.length){
+            return prod.equals(target);
         }
-
-       
-        if (product.compareTo(target) > 0) {
+        if(prod.compareTo(target)>0){
             return false;
         }
-
-        if (rec(arr, target, i + 1, product.multiply(BigInteger.valueOf(arr[i])))) {
+        //pick ele
+        if(func(nums,target,i+1,prod.multiply(BigInteger.valueOf(nums[i])))){
             return true;
-        }
-
-        
-        return rec(arr, target, i + 1, product);
+        }return func(nums,target,i+1,prod);
     }
-
     public boolean checkEqualPartitions(int[] nums, long target) {
-        BigInteger total = BigInteger.ONE;
-
-      
-        for (int num : nums) {
-            total = total.multiply(BigInteger.valueOf(num));
+        BigInteger total=BigInteger.valueOf(1);
+        for(int i=0;i<nums.length;i++){
+            total=total.multiply(BigInteger.valueOf(nums[i]));
         }
-
-        BigInteger targetSquared = BigInteger.valueOf(target).multiply(BigInteger.valueOf(target));
-
-       
-        if (!total.equals(targetSquared)) {
+        BigInteger tar_squ=BigInteger.valueOf(target).multiply(BigInteger.valueOf(target));
+        if(!total.equals(tar_squ)){
             return false;
-        }
-
-     
-        return rec(nums, BigInteger.valueOf(target), 0, BigInteger.ONE);
+        }return func(nums,BigInteger.valueOf(target),0,BigInteger.valueOf(1));
     }
 }
