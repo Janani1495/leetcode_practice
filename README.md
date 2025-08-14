@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/Janani1495/leetcode_practice/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Janani1495/leetcode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Janani1495/leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Janani1495/leetcode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/Janani1495/leetcode_practice/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/3811-reverse-degree-of-a-string) |
