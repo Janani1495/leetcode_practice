@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Janani1495/leetcode_practice/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Janani1495/leetcode_practice/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Janani1495/leetcode_practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janani1495/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Janani1495/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Janani1495/leetcode_practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Janani1495/leetcode_practice/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
