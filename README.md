@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Janani1495/leetcode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/Janani1495/leetcode_practice/tree/master/2529-range-product-queries-of-powers) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 ## Sorting
