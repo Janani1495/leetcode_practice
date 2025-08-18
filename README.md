@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Janani1495/leetcode_practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Janani1495/leetcode_practice/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Janani1495/leetcode_practice/tree/master/1603-running-sum-of-1d-array) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Janani1495/leetcode_practice/tree/master/1505-create-target-array-in-the-given-order) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Janani1495/leetcode_practice/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2058-concatenation-of-array](https://github.com/Janani1495/leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Janani1495/leetcode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
@@ -623,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Janani1495/leetcode_practice/tree/master/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
