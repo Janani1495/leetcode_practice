@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Janani1495/leetcode_practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Janani1495/leetcode_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/Janani1495/leetcode_practice/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Janani1495/leetcode_practice/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Janani1495/leetcode_practice/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Janani1495/leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Janani1495/leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Janani1495/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Janani1495/leetcode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Janani1495/leetcode_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2529-range-product-queries-of-powers](https://github.com/Janani1495/leetcode_practice/tree/master/2529-range-product-queries-of-powers) |
 ## Enumeration
 |  |
