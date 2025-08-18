@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Janani1495/leetcode_practice/tree/master/0088-merge-sorted-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Janani1495/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Janani1495/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Janani1495/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Janani1495/leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janani1495/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
