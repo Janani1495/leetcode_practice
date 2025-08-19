@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Janani1495/leetcode_practice/tree/master/1635-number-of-good-pairs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Janani1495/leetcode_practice/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Janani1495/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Janani1495/leetcode_practice/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Janani1495/leetcode_practice/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Janani1495/leetcode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Janani1495/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/Janani1495/leetcode_practice/tree/master/2529-range-product-queries-of-powers) |
