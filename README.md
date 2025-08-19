@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Janani1495/leetcode_practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Janani1495/leetcode_practice/tree/master/2748-calculate-delayed-arrival-time) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Janani1495/leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Janani1495/leetcode_practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Janani1495/leetcode_practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Janani1495/leetcode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Janani1495/leetcode_practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Two Pointers
 |  |
