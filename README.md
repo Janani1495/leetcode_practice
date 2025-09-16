@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Janani1495/leetcode_practice/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Janani1495/leetcode_practice/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Janani1495/leetcode_practice/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Janani1495/leetcode_practice/tree/master/1791-richest-customer-wealth) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Janani1495/leetcode_practice/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Interactive
 |  |
 | ------- |
