@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/Janani1495/leetcode_practice/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/Janani1495/leetcode_practice/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Janani1495/leetcode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Janani1495/leetcode_practice/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2102-find-the-middle-index-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Janani1495/leetcode_practice/tree/master/2529-range-product-queries-of-powers) |
 ## Enumeration
 |  |
