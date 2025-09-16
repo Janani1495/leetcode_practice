@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Janani1495/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Janani1495/leetcode_practice/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Janani1495/leetcode_practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Janani1495/leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Janani1495/leetcode_practice/tree/master/1013-fibonacci-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Janani1495/leetcode_practice/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Janani1495/leetcode_practice/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Janani1495/leetcode_practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Janani1495/leetcode_practice/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/Janani1495/leetcode_practice/tree/master/0837-most-common-word) |
