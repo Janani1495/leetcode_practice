@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Janani1495/leetcode_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Janani1495/leetcode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3541-report-spam-message](https://github.com/Janani1495/leetcode_practice/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Janani1495/leetcode_practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Two Pointers
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3396-valid-word](https://github.com/Janani1495/leetcode_practice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3541-report-spam-message](https://github.com/Janani1495/leetcode_practice/tree/master/3541-report-spam-message) |
 | [3811-reverse-degree-of-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Database
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3541-report-spam-message](https://github.com/Janani1495/leetcode_practice/tree/master/3541-report-spam-message) |
 ## Sliding Window
 |  |
 | ------- |
