@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Janani1495/leetcode_practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2591-frog-jump-ii](https://github.com/Janani1495/leetcode_practice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Janani1495/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Janani1495/leetcode_practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Janani1495/leetcode_practice/tree/master/1525-queries-on-a-permutation-with-key) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Janani1495/leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Janani1495/leetcode_practice/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Janani1495/leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Janani1495/leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Janani1495/leetcode_practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1217-relative-sort-array](https://github.com/Janani1495/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Janani1495/leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Janani1495/leetcode_practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Janani1495/leetcode_practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
