@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Janani1495/leetcode_practice/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Janani1495/leetcode_practice/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Janani1495/leetcode_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [3324-split-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/3324-split-the-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Janani1495/leetcode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Janani1495/leetcode_practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Janani1495/leetcode_practice/tree/master/2561-number-of-distinct-averages) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2664-maximize-greatness-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Janani1495/leetcode_practice/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Janani1495/leetcode_practice/tree/master/2836-neither-minimum-nor-maximum) |
 ## Memoization
 |  |
 | ------- |
