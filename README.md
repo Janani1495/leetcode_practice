@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Janani1495/leetcode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Janani1495/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Janani1495/leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janani1495/leetcode_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Janani1495/leetcode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Janani1495/leetcode_practice/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Janani1495/leetcode_practice/tree/master/1791-richest-customer-wealth) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Janani1495/leetcode_practice/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Interactive
 |  |
