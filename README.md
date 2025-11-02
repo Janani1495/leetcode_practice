@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Janani1495/leetcode_practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Janani1495/leetcode_practice/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Janani1495/leetcode_practice/tree/master/1580-shuffle-the-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Janani1495/leetcode_practice/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Janani1495/leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Janani1495/leetcode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Janani1495/leetcode_practice/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/Janani1495/leetcode_practice/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Janani1495/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/Janani1495/leetcode_practice/tree/master/1764-maximum-repeating-substring) |
 ## Graph
 |  |
