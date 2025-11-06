@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Janani1495/leetcode_practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janani1495/leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Janani1495/leetcode_practice/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Janani1495/leetcode_practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Janani1495/leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Janani1495/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Janani1495/leetcode_practice/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Janani1495/leetcode_practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Janani1495/leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Janani1495/leetcode_practice/tree/master/0389-find-the-difference) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Janani1495/leetcode_practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Janani1495/leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Janani1495/leetcode_practice/tree/master/0837-most-common-word) |
