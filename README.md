@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Janani1495/leetcode_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Janani1495/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Janani1495/leetcode_practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Janani1495/leetcode_practice/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Janani1495/leetcode_practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Janani1495/leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Janani1495/leetcode_practice/tree/master/0342-power-of-four) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Janani1495/leetcode_practice/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Janani1495/leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Janani1495/leetcode_practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Janani1495/leetcode_practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0419-battleships-in-a-board](https://github.com/Janani1495/leetcode_practice/tree/master/0419-battleships-in-a-board) |
@@ -675,12 +677,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Janani1495/leetcode_practice/tree/master/0204-count-primes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Janani1495/leetcode_practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Janani1495/leetcode_practice/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Janani1495/leetcode_practice/tree/master/2507-number-of-common-factors) |
 ## Design
 |  |
