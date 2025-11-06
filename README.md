@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Janani1495/leetcode_practice/tree/master/2235-capitalize-the-title) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Janani1495/leetcode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3379-score-of-a-string](https://github.com/Janani1495/leetcode_practice/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Janani1495/leetcode_practice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Janani1495/leetcode_practice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-report-spam-message](https://github.com/Janani1495/leetcode_practice/tree/master/3541-report-spam-message) |
