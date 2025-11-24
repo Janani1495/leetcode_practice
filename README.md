@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Janani1495/leetcode_practice/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Janani1495/leetcode_practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Janani1495/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Janani1495/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Janani1495/leetcode_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Janani1495/leetcode_practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Janani1495/leetcode_practice/tree/master/0089-gray-code) |
 ## String Matching
