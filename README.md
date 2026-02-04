@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Janani1495/leetcode_practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Janani1495/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Janani1495/leetcode_practice/tree/master/0089-gray-code) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Janani1495/leetcode_practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Janani1495/leetcode_practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Janani1495/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Janani1495/leetcode_practice/tree/master/0075-sort-colors) |
