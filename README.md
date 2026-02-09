@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Janani1495/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Janani1495/leetcode_practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Janani1495/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Janani1495/leetcode_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janani1495/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Janani1495/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Janani1495/leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Janani1495/leetcode_practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Janani1495/leetcode_practice/tree/master/0049-group-anagrams) |
