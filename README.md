@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Janani1495/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Janani1495/leetcode_practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janani1495/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Janani1495/leetcode_practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0137-single-number-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Janani1495/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Janani1495/leetcode_practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Janani1495/leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janani1495/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Janani1495/leetcode_practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Janani1495/leetcode_practice/tree/master/0152-maximum-product-subarray) |
