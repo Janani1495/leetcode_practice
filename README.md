@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Janani1495/leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Janani1495/leetcode_practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Janani1495/leetcode_practice/tree/master/1635-number-of-good-pairs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Janani1495/leetcode_practice/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Janani1495/leetcode_practice/tree/master/2383-add-two-integers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Janani1495/leetcode_practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Janani1495/leetcode_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Janani1495/leetcode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Janani1495/leetcode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Janani1495/leetcode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-queries-on-a-permutation-with-key](https://github.com/Janani1495/leetcode_practice/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2058-concatenation-of-array](https://github.com/Janani1495/leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Janani1495/leetcode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Janani1495/leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Janani1495/leetcode_practice/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2886-faulty-keyboard](https://github.com/Janani1495/leetcode_practice/tree/master/2886-faulty-keyboard) |
@@ -723,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Janani1495/leetcode_practice/tree/master/0292-nim-game) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Janani1495/leetcode_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
